@@ -1,7 +1,8 @@
 import React from 'react'
 
 export default function 
-() {
+() {  
+    
   return (
     <div>
         <section class="py-10 bg-gray-900 sm:pt-16 lg:pt-24">
